@@ -1,2 +1,1 @@
-1. another reader for 0x01.git
-2. README update from github.com
+README update from github.com
